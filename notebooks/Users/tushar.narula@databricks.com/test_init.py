@@ -15,3 +15,5 @@ ls /dbfs/
 
 # COMMAND ----------
 
+ls /databricks/jars
+
